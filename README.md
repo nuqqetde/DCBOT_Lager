@@ -82,7 +82,6 @@ Der Bot ermöglicht eine vollständig dynamische Lagerverwaltung:
 Bei Fragen oder Problemen können Sie:
 - Ein Issue auf GitHub erstellen
 - Den Support-Discord beitreten
-- Eine E-Mail an [Support-Email] senden
 
 ## Lizenz
 
