@@ -1,0 +1,15 @@
+{
+    "Waffenlager": {
+        "P99": 5,
+        "AK-47": 2,
+        "Munition 9mm": 150
+    },
+    "Medizinlager": {
+        "Verbandskästen": 10,
+        "Schmerztabletten": 25
+    },
+    "Materiallager": {
+        "Holz": 100,
+        "Stahl": 50
+    }
+} 
